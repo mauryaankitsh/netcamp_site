@@ -1,0 +1,50 @@
+<?php
+#dv1{
+	height:150px;
+	width:560px;
+    
+}
+#logo{
+	width: 400px;
+	margin-top: 20px;
+	margin-left:150px;
+	font-family: georgia;
+	display: inline-block;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li {
+    float: left;
+}
+li a:hover{
+    background-color: red;
+	font-size:27px;
+}
+
+#course{
+	width:100%;
+	margin-top: 20px;
+	font-family: georgia;
+	display: inline-block;
+}
+
+li a{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+dv2{
+	background:red;
+	
+}
+
+
+?>
